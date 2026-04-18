@@ -1,0 +1,27 @@
+{
+  "name": "env-guard",
+  "version": "1.0.0",
+  "description": "Validate environment variables at runtime with type checking and required/optional support",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "env",
+    "environment",
+    "validation",
+    "config",
+    "env-vars"
+  ],
+  "author": "Afaq Ahmad <developer@example.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/env-guard.git"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
